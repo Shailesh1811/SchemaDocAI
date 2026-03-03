@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>SchemaDocAI</title>
+
+</head>
+
+<body>
+
+
+<h2>SchemaDocAI - PDF to JSON Converter</h2>
+
+
+<form action="http://localhost:3000/upload" method="POST" enctype="multipart/form-data">
+
+
+<!-- PDF upload -->
+
+<label>Select PDF:</label>
+
+<br>
+
+<input type="file" name="pdf" required>
+
+<br><br>
+
+
+
+<!-- instruction -->
+
+<label>Instruction:</label>
+
+<br>
+
+<textarea
+
+name="instruction"
+
+rows="4"
+
+cols="50"
+
+placeholder="Example: Extract name and project"
+
+></textarea>
+
+
+<br><br>
+
+
+
+<!-- sample json -->
+
+<label>Sample JSON:</label>
+
+<br>
+
+<textarea
+
+name="sampleJson"
+
+rows="6"
+
+cols="50"
+
+placeholder='Example: {"name":"","project":""}'
+
+></textarea>
+
+
+<br><br>
+
+
+
+<button type="submit">
+
+Convert PDF
+
+</button>
+
+
+
+</form>
+
+
+</body>
+
+</html>
