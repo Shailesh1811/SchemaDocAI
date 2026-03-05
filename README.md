@@ -87,6 +87,21 @@ Open in browser:
 http://localhost:3000/upload.html
 
 
+## Demo
+
+### Interface
+![Interface](Sample images/interface.jpg.png)
+
+### PDF Input
+![PDF Input](Sample images/Given pdf.jpg.png)
+
+### Output Example
+![Output](Sample images/Output1.jpg.png)
+
+### Server Running
+![Server](Sample images/Server running.jpg.png)
+
+
 ## How This Helps Emoneeds
 Instead of manually typing OPD assessments, doctors can upload handwritten assessment PDFs. The system converts them into structured JSON automatically. That JSON can be converted into CSV and uploaded directly into the company database. This improves workflow efficiency and reduces manual workload.
 
