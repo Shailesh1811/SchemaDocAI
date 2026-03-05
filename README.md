@@ -93,13 +93,13 @@ http://localhost:3000/upload.html
 ![Interface](Sample_images/interface.jpg.png)
 
 ### PDF Input
-![PDF Input](Sample_images/Given pdf.jpg.png)
+![PDF Input](Sample_images/Given_pdf.jpg.png)
 
 ### Output Example
 ![Output](Sample_images/Output1.jpg.png)
 
 ### Server Running
-![Server](Sample_images/Server running.jpg.png)
+![Server](Sample_images/Server_running.jpg.png)
 
 
 ## How This Helps Emoneeds
