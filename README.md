@@ -90,16 +90,16 @@ http://localhost:3000/upload.html
 ## Demo
 
 ### Interface
-![Interface](Sample images/interface.jpg.png)
+![Interface](Sample_images/interface.jpg.png)
 
 ### PDF Input
-![PDF Input](Sample images/Given pdf.jpg.png)
+![PDF Input](Sample_images/Given pdf.jpg.png)
 
 ### Output Example
-![Output](Sample images/Output1.jpg.png)
+![Output](Sample_images/Output1.jpg.png)
 
 ### Server Running
-![Server](Sample images/Server running.jpg.png)
+![Server](Sample_images/Server running.jpg.png)
 
 
 ## How This Helps Emoneeds
